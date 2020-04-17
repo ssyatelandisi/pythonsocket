@@ -1,6 +1,10 @@
 {
   "server": {
     "host": "ssyatelandisi.qicp.vip",
-    "port": "26648"
+    "port": "15054"
+  },
+  "local": {
+    "host": "127.0.0.1",
+    "port": "12345"
   }
 }
